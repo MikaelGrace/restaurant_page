@@ -1,4 +1,4 @@
-export function InitialPageLoad() {
+export function HomePage() {
     const divContent = document.querySelector("#content");
     const introDiv = document.createElement("div");
     const imgSection = document.createElement("div");
